@@ -1,0 +1,24 @@
+{
+  "name": "parsel-demo-for-issues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lc60005457/parsel-demo-for-issues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lc60005457/parsel-demo-for-issues/issues"
+  },
+  "homepage": "https://github.com/lc60005457/parsel-demo-for-issues#readme"
+}
